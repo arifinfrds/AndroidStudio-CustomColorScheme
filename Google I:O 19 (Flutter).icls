@@ -1,9 +1,9 @@
 <scheme name="Google I/O 19 (Flutter)" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2021-02-20T10:14:30</property>
-    <property name="ide">Idea</property>
-    <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2021-02-20T10:14:36</property>
+    <property name="created">2021-02-20T12:25:36</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">4.1.2.0</property>
+    <property name="modified">2021-02-20T12:25:43</property>
     <property name="originalScheme">Google I/O 19 (Flutter)</property>
   </metaInfo>
   <attributes>
@@ -74,6 +74,7 @@
         <option name="FOREGROUND" value="f1df77" />
       </value>
     </option>
+    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="KOTLIN_PACKAGE_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="ffffff" />
